@@ -1,0 +1,14 @@
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/bin/Debug/netcoreapp2.2/WebApi.deps.json
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/bin/Debug/netcoreapp2.2/WebApi.runtimeconfig.json
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/bin/Debug/netcoreapp2.2/WebApi.runtimeconfig.dev.json
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/bin/Debug/netcoreapp2.2/WebApi.dll
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/bin/Debug/netcoreapp2.2/WebApi.pdb
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.csprojAssemblyReference.cache
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.csproj.CoreCompileInputs.cache
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.RazorAssemblyInfo.cache
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.RazorAssemblyInfo.cs
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.AssemblyInfoInputs.cache
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.AssemblyInfo.cs
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.RazorTargetAssemblyInfo.cache
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.dll
+/home/vochihieu/Documents/DotNetCore/WebApp/DemoCallApi/WebApi/obj/Debug/netcoreapp2.2/WebApi.pdb
