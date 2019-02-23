@@ -1,16 +1,26 @@
 @model IEnumerable<WebApp.Models.HocViens>
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-@foreach (var item in Model)
-{
-    <a>@item.Email</a>
-}
-</body>
-</html>
+
+<h1>Danh sách học viên</h1>
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+      @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">1</th>
+                <td>@item.Email</td>
+                <td>Otto</td>
+            </tr>
+        }
+  </tbody>
+</table>

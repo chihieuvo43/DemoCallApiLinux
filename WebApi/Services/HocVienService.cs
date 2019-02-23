@@ -18,7 +18,6 @@ namespace WebApi.Services
         {
             return _hocViens.Find(HocVien=>true).ToList();
         }
-
         public HocViens Get(string Id)
         {
             return _hocViens.Find<HocViens>(HocVien=>HocVien.Id==Id).FirstOrDefault();
@@ -27,6 +26,18 @@ namespace WebApi.Services
         {
             _hocViens.InsertOne(HocVien);
             return HocVien;
+        }
+        public void Update(string Id,HocViens HocVien)
+        {
+             _hocViens.ReplaceOne(HocViens=>HocViens.Id==Id,HocVien);
+        }
+         public void Delete(HocViens HocVien)
+        {
+             _hocViens.DeleteOne(HocViens=>HocViens.Id==HocVien.Id);
+        }
+         public void Delete(string Id)
+        {
+             _hocViens.DeleteOne(HocViens=>HocViens.Id==Id);
         }
     }
 }

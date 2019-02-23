@@ -1,4 +1,6 @@
 using System.Net.Http;
+using IdentityModel.Client;
+using Newtonsoft.Json.Linq;
 
 namespace WebApp.Helper
 {
@@ -7,7 +9,7 @@ namespace WebApp.Helper
         public HttpClient Initial()
         {
             var client=new HttpClient();
-            client.BaseAddress=new System.Uri("http://localhost:47399");
+            client.BaseAddress=new System.Uri("http://localhost:5050/");
             return client;
         }
     }
